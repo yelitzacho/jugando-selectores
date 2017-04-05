@@ -2,8 +2,41 @@
 *{
   font-family: 'Montserrat', sans-serif;
   color: #4B4B4B;
+  margin: 0px;
+}
+
+img{
+  width: 1350px;
+
+}
+
+
+
+.contenido{
+  margin-left: 12%;
+  margin-right: 12%;
+  text-align: justify;
+}
+
+/*
+img {
+height: 100 %;
+top:0;
+left:0;
+position:fixed;
+z-index: -1;
+width: 100 &#37; ; /* en porcentaje (el highlight del foro lo trasforma)
+}
+
+
+.text{
   margin-left: 5%;
   margin-right: 5%;
+  text-align: justify;
+}
+
+#id{
+  color: red;
 }
 
 h1{
@@ -22,12 +55,19 @@ h4{
 }
 
 table{
-  display: inline-table;
   text-align: center;
   border:  1px solid #aabcfe;
-  caption-side: top;
 }
 
 a{
   color: #7A258E;
 }
+
+strong {
+  margin: 0px;
+}
+
+a{
+  margin: 0px;
+}
+/*
